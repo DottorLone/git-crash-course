@@ -3,6 +3,10 @@ Benvenuto al corso rapido sui comandi di Git! Ogni traccia in questa playlist ra
 
 <img width="376" alt="Screenshot 2024-05-08 alle 11 36 43" src="https://github.com/DottorLone/git-crash-course/assets/65162895/066e08cd-166f-4b4d-a57b-988d5aa37309">
 
+E come promemoria ecco il link alla playlist su spotify: [https://open.spotify.com/embed/playlist/56VLs2q2sF5QrIS408OJDy?utm_source=generator&theme=0](https://open.spotify.com/playlist/53cGLi6A8b7dd8ab2D7RPU?si=475bb31240c14673)
+
+mi trovi anche su IG: https://www.instagram.com/dottorlone
+
 ## Guida alle Tracce della Playlist e ai Comandi Git
 ### 1. COMMIT - Nemzzz
 #### Comando Git: git commit
